@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\conta\\Documents\\TravelAgency\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D98ECF21-C171-4811-8387-F99E2E05455F}|TravelAgency\\TravelAgency.csproj|c:\\users\\conta\\documents\\travelagency\\travelagency\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D98ECF21-C171-4811-8387-F99E2E05455F}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1E5A5-7392-4747-B720-8081289FCECE}|TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj|c:\\users\\conta\\documents\\travelagency\\travelagency.infrastructure\\service\\amadeusapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E1E5A5-7392-4747-B720-8081289FCECE}|TravelAgency.Infrastructure\\TravelAgency.Infrastructure.csproj|solutionrelative:travelagency.infrastructure\\service\\amadeusapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98ECF21-C171-4811-8387-F99E2E05455F}|TravelAgency\\TravelAgency.csproj|c:\\users\\conta\\documents\\travelagency\\travelagency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98ECF21-C171-4811-8387-F99E2E05455F}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50350886-57F0-4EC1-9F65-6FD1437A31AE}|TravelAgency.Application\\TravelAgency.Application.csproj|c:\\users\\conta\\documents\\travelagency\\travelagency.application\\service\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50350886-57F0-4EC1-9F65-6FD1437A31AE}|TravelAgency.Application\\TravelAgency.Application.csproj|solutionrelative:travelagency.application\\service\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D9BF43-5317-4A0B-AED7-CAD210180154}|TravelAgency.Domain\\TravelAgency.Domain.csproj|c:\\users\\conta\\documents\\travelagency\\travelagency.domain\\entities\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D9BF43-5317-4A0B-AED7-CAD210180154}|TravelAgency.Domain\\TravelAgency.Domain.csproj|solutionrelative:travelagency.domain\\entities\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D9BF43-5317-4A0B-AED7-CAD210180154}|TravelAgency.Domain\\TravelAgency.Domain.csproj|c:\\users\\conta\\documents\\travelagency\\travelagency.domain\\interfaces\\iamadeusapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D9BF43-5317-4A0B-AED7-CAD210180154}|TravelAgency.Domain\\TravelAgency.Domain.csproj|solutionrelative:travelagency.domain\\interfaces\\iamadeusapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D9BF43-5317-4A0B-AED7-CAD210180154}|TravelAgency.Domain\\TravelAgency.Domain.csproj|c:\\users\\conta\\documents\\travelagency\\travelagency.domain\\interfaces\\iflightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D9BF43-5317-4A0B-AED7-CAD210180154}|TravelAgency.Domain\\TravelAgency.Domain.csproj|solutionrelative:travelagency.domain\\interfaces\\iflightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D9BF43-5317-4A0B-AED7-CAD210180154}|TravelAgency.Domain\\TravelAgency.Domain.csproj|c:\\users\\conta\\documents\\travelagency\\travelagency.domain\\interfaces\\ihotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D9BF43-5317-4A0B-AED7-CAD210180154}|TravelAgency.Domain\\TravelAgency.Domain.csproj|solutionrelative:travelagency.domain\\interfaces\\ihotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50350886-57F0-4EC1-9F65-6FD1437A31AE}|TravelAgency.Application\\TravelAgency.Application.csproj|c:\\users\\conta\\documents\\travelagency\\travelagency.application\\service\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50350886-57F0-4EC1-9F65-6FD1437A31AE}|TravelAgency.Application\\TravelAgency.Application.csproj|solutionrelative:travelagency.application\\service\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\conta\\Documents\\TravelAgency\\TravelAgency\\Program.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Program.cs",
+              "ToolTip": "C:\\Users\\conta\\Documents\\TravelAgency\\TravelAgency\\Program.cs",
+              "RelativeToolTip": "TravelAgency\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:24:33.381Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HotelService.cs",
+              "DocumentMoniker": "C:\\Users\\conta\\Documents\\TravelAgency\\TravelAgency.Application\\Service\\HotelService.cs",
+              "RelativeDocumentMoniker": "TravelAgency.Application\\Service\\HotelService.cs",
+              "ToolTip": "C:\\Users\\conta\\Documents\\TravelAgency\\TravelAgency.Application\\Service\\HotelService.cs",
+              "RelativeToolTip": "TravelAgency.Application\\Service\\HotelService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T00:27:44.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\conta\\Documents\\TravelAgency\\TravelAgency.Domain\\Entities\\Flight.cs",
+              "RelativeDocumentMoniker": "TravelAgency.Domain\\Entities\\Flight.cs",
+              "ToolTip": "C:\\Users\\conta\\Documents\\TravelAgency\\TravelAgency.Domain\\Entities\\Flight.cs",
+              "RelativeToolTip": "TravelAgency.Domain\\Entities\\Flight.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwCQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T00:23:40.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\conta\\Documents\\TravelAgency\\TravelAgency\\appsettings.json",
+              "RelativeDocumentMoniker": "TravelAgency\\appsettings.json",
+              "ToolTip": "C:\\Users\\conta\\Documents\\TravelAgency\\TravelAgency\\appsettings.json",
+              "RelativeToolTip": "TravelAgency\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T23:02:08.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAmadeusApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\conta\\Documents\\TravelAgency\\TravelAgency.Domain\\Interfaces\\IAmadeusApiClient.cs",
+              "RelativeDocumentMoniker": "TravelAgency.Domain\\Interfaces\\IAmadeusApiClient.cs",
+              "ToolTip": "C:\\Users\\conta\\Documents\\TravelAgency\\TravelAgency.Domain\\Interfaces\\IAmadeusApiClient.cs",
+              "RelativeToolTip": "TravelAgency.Domain\\Interfaces\\IAmadeusApiClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:58:37.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AmadeusApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\conta\\Documents\\TravelAgency\\TravelAgency.Infrastructure\\Service\\AmadeusApiClient.cs",
+              "RelativeDocumentMoniker": "TravelAgency.Infrastructure\\Service\\AmadeusApiClient.cs",
+              "ToolTip": "C:\\Users\\conta\\Documents\\TravelAgency\\TravelAgency.Infrastructure\\Service\\AmadeusApiClient.cs",
+              "RelativeToolTip": "TravelAgency.Infrastructure\\Service\\AmadeusApiClient.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwEEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:49:40.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FlightService.cs",
+              "DocumentMoniker": "C:\\Users\\conta\\Documents\\TravelAgency\\TravelAgency.Application\\Service\\FlightService.cs",
+              "RelativeDocumentMoniker": "TravelAgency.Application\\Service\\FlightService.cs",
+              "ToolTip": "C:\\Users\\conta\\Documents\\TravelAgency\\TravelAgency.Application\\Service\\FlightService.cs",
+              "RelativeToolTip": "TravelAgency.Application\\Service\\FlightService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAEwA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:42:39.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IHotelService.cs",
+              "DocumentMoniker": "C:\\Users\\conta\\Documents\\TravelAgency\\TravelAgency.Domain\\Interfaces\\IHotelService.cs",
+              "RelativeDocumentMoniker": "TravelAgency.Domain\\Interfaces\\IHotelService.cs",
+              "ToolTip": "C:\\Users\\conta\\Documents\\TravelAgency\\TravelAgency.Domain\\Interfaces\\IHotelService.cs",
+              "RelativeToolTip": "TravelAgency.Domain\\Interfaces\\IHotelService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:59:17.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFlightService.cs",
+              "DocumentMoniker": "C:\\Users\\conta\\Documents\\TravelAgency\\TravelAgency.Domain\\Interfaces\\IFlightService.cs",
+              "RelativeDocumentMoniker": "TravelAgency.Domain\\Interfaces\\IFlightService.cs",
+              "ToolTip": "C:\\Users\\conta\\Documents\\TravelAgency\\TravelAgency.Domain\\Interfaces\\IFlightService.cs",
+              "RelativeToolTip": "TravelAgency.Domain\\Interfaces\\IFlightService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:55:57.857Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
